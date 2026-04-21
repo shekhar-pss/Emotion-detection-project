@@ -1,6 +1,3 @@
-
----
-
 ## 🤖 AI / ML Model  
 
 - Model: Convolutional Neural Network (CNN)  
